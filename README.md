@@ -18,4 +18,6 @@ The left sidebar contains the different options to compute the analysis:
 
 The **Parameters** tab allows you to change each distance's parameters. The distances that do not appear on this tab do not require further specifications for its computation. 
 
+Originally developed for the [Net0i project](https://wp.lancs.ac.uk/net0i/).
+
 This tool was supported by the UK Research and Innovation (UKRI) Engineering and Physical Sciences Research Council (EPSRC) under the project titled "Reducing End Use Energy Demand in Commercial Settings Through Digital Innovation," grant number EP/T025964/1.
