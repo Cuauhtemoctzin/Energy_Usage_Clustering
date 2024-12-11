@@ -2,6 +2,8 @@
 
  This dashboard benchmarks the different sources used in the Lancaster University buildings. Given a data range chosen, an anomaly score is assigned to each building using a nearest-neighbor approach. In brief, an anomalous observation will have large distances compared with the rest of the observations, particularly with its nearest neighbors. The anomaly score is the sum of the distances of an observation with its nearest neighbors.  The options and parameters provided are meant to explore different perspectives and explain the behavior of source usage at the University.
 
+![screenshot](Screenshot.png)
+
 The left sidebar contains the different options to compute the analysis: 
 - **Download**: Download the computed scores, total source usage, and building information in CSV format. 
 - **Source supply**: Choose the meter type among electricity, water, gas, and heat records. 
