@@ -5,7 +5,7 @@ account: cuauhtemoctzin
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13579205
-bundleId: 9504456
+bundleId: 9550597
 url: https://cuauhtemoctzin.shinyapps.io/Energy_Usage_Clustering/
 version: 1
 asMultiple: FALSE
